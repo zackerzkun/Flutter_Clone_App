@@ -17,11 +17,10 @@ environment:
   sdk: ">=2.10.0 <3.0.0"
 
 dependencies:
+
   flutter:
     sdk: flutter
-  custom_radio_grouped_button: ^2.1.2
     
-custom_radio_grouped_button: any
 
 dev_dependencies:
   flutter_test:
@@ -41,12 +40,6 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/images/Bp1.jpg
-    - assets/images/Bp2.jpg
-    - assets/images/Bp3.jpg
-    - assets/images/Bp4.jpg
-    - assets/images/Bp5.jpg
-    - assets/images/Bp6.jpg
     - assets/images/jennie.jpg
     
   #  - images/a_dot_ham.jpeg
